@@ -1,0 +1,29 @@
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/workspace.xml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 打包产物（Release 附件上传，不进仓库）
+out/
+*.app/
+*.icns
+*.iconset/
+
+# 缓存
+/tmp/
+.cache/
